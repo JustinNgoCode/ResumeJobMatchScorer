@@ -1,0 +1,11 @@
+id,description,status,error,overall_score,expected_range,score_pass,gap_pass,strength_pass,low_confidence_pass,passed,verdict,gaps_preview,strengths_preview
+tc01,Strong match: senior Python engineer vs Python backend role,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc02,Weak match: marketing coordinator applying to ML engineer role,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc03,Partial match: junior dev missing required cloud experience,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc04,Strong match: data scientist vs data science role,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc05,Partial match: PM with some but not all required skills,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc06,Low confidence: resume too short,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc07,Weak match: nurse applying to software engineer role,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc08,Strong match: DevOps engineer vs DevOps role,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc09,Partial match: frontend dev applying to fullstack requiring backend,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
+tc10,Strong match: Android dev vs Android role,ERROR,OPENAI_API_KEY is not set. Add it to your .env file.,,,False,,,,False,,,
