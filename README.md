@@ -18,10 +18,10 @@ Built with Python, Streamlit, and the OpenAI API (`gpt-4o-mini`).
 
 ```bash
 git clone <your-repo-url>
-cd resume_matcher
+cd ResumeJobMatchScorer
 
-python -m venv .venv
-source .venv/bin/activate          # Windows: .venv\Scripts\activate
+python3 -m venv .venv
+source .venv/bin/activate
 
 pip install -r requirements.txt
 
@@ -44,8 +44,6 @@ python eval/eval.py
 ```
 
 Runs 10 labeled test cases and writes `eval/results.csv`.
-
----
 
 ## Project structure
 
